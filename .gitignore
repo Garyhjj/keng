@@ -1,0 +1,7 @@
+.DS_Store
+node_modules/
+dist/
+static/ckeditor
+accounting-control/
+manage-window/
+product-window/
